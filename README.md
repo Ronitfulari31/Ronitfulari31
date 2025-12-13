@@ -1,4 +1,4 @@
-👋 Hi, I’m Ronit
+👋 Hi, I’m Ronit Fulari
 
 I am a final-year undergraduate engineering student (Batch of 2026) with hands-on experience in building modern, scalable, and user-centric software systems across web, backend, database, and AI-assisted layers. My work focuses on applying the right technologies to solve real-world problems through clean design, efficient logic, and maintainable architectures.
 
