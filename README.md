@@ -1,25 +1,30 @@
 # 👋 Hi, I'm Ronit Fulari
 
-🎓 **Final-Year Computer Science Student** (Graduating 2026)  
-🎯 **Aspiring Data Engineer** | Strong foundation in **Python** & **SQL**
+🎓 **Final-Year Computer Science Undergraduate** (Graduating 2026)  
+🎯 **Aspiring Data Engineer** | Driven by **Python**, **SQL**, and **Data Architecture**
 
-I enjoy solving complex data challenges—turning raw, unstructured datasets into clean, structured architecture ready for analysis. My focus is on building scalable data warehouses, intelligent SQL tools, and data-processing packages using modern data tools.
+---
 
+### 💡 About Me
+
+I am a final-year Computer Science student passionate about the plumbing behind modern data systems. While many focus solely on data analysis or machine learning models, I get excited about **how data moves, cleans, and structures itself** behind the scenes. 
+
+My journey started with writing complex SQL queries and Python scripts, which naturally evolved into designing reliable data models, warehouses, and automated processing tools. I enjoy taking chaotic, raw datasets and crafting efficient, well-structured pipelines that make data immediately useful for decision-making. 
 ---
 
 ### 🛠️ Core Technical Skills
 
-* **Programming & Querying:** Python (Pandas, PySpark, NumPy), SQL (PostgreSQL, MySQL), Bash / Shell Scripting
-* **Data Engineering & Architecture:** Medallion Architecture (Bronze/Silver/Gold), Data Integration, Data Warehousing, Data Cleaning & Pipeline Design
-* **Databases & Tools:** PostgreSQL, MySQL, Snowflake, AWS (S3, Lambda, Redshift, Glue), Docker, Git/GitHub
+* **Core Languages & Querying:** Python (Pandas, PySpark, NumPy), SQL (PostgreSQL, MySQL), Bash / Shell Scripting
+* **Data Engineering Concepts:** Data Warehousing, Medallion Architecture (Bronze/Silver/Gold), ETL/ELT Pipelines, Data Modeling & Cleaning
+* **Databases & Tools:** PostgreSQL, MySQL, Snowflake, AWS (S3, Redshift, Glue), Git/GitHub, Docker
 
 ---
 
-### 🚀 Selected Projects
+### 🚀 Projects & Hands-On Work
 
-* **[SQL Data Warehouse Project](https://github.com/Ronitfulari31/sql-warehouse-project)** — Implemented an end-to-end Data Warehouse solution adhering to **Medallion Architecture** to integrate, clean, and model multi-source CRM & ERP data for analytical consumption.
-* **[AI-Powered SQL Assistant](https://github.com/Ronitfulari31/AI_POWERED_SQL-ASSISTANCE)** — Developed an AI-driven tool that translates natural language queries into accurate, executable SQL queries to simplify data access.
-* **[ContentIntelPy](https://github.com/Ronitfulari31/ContentIntelPy)** — Built a custom Python NLP processing package designed to extract and process text insights efficiently.
+* **[SQL Data Warehouse Project](https://github.com/Ronitfulari31/sql-warehouse-project)** — Designed an end-to-end Data Warehouse solution implementing Medallion Architecture to integrate, clean, and model multi-source CRM and ERP data.
+* **[AI-Powered SQL Assistant](https://github.com/Ronitfulari31/AI_POWERED_SQL-ASSISTANCE)** — Built an AI tool that translates natural language questions into precise, executable SQL queries to simplify data querying.
+* **[ContentIntelPy](https://github.com/Ronitfulari31/ContentIntelPy)** — Authored a Python package for NLP text preprocessing and insights extraction.
 
 ---
 
