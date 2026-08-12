@@ -1,18 +1,32 @@
-👋 Hi, I’m Ronit Fulari
+# 👋 Hi, I'm Ronit Fulari
 
-I am a final-year undergraduate engineering student (Batch of 2026) with hands-on experience in building modern, scalable, and user-centric software systems across web, backend, database, and AI-assisted layers. My work focuses on applying the right technologies to solve real-world problems through clean design, efficient logic, and maintainable architectures.
+🎓 **Final-Year Computer Science Undergraduate** (Batch of 2026) | 
+🎯 **Focus Area:** Data Engineering, Advanced SQL Development, ETL/ELT Pipelines, and Big Data Ecosystems.
 
-🛠 Technical Skill Set & Technology Stack
-Frontend Technologies: HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Angular, Material UI, Responsive Design
-Backend & Server-Side: Java (Servlets, JSP), Python, RESTful APIs, Node.js
-Databases: MySQL, SQL schema design, query optimization
-AI & Intelligent Systems: AI/NLP API integration, chatbot interfaces, natural language query processing, automation workflows
-Tools & Platforms: Git, GitHub, VS Code, Eclipse, MySQL Workbench, Streamlit
-Software Engineering Practices: Modular architecture, API integration, performance optimization, cross-browser compatibility, clean and maintainable code
+I specialize in building reliable, scalable data pipelines and designing optimized database architectures. My focus is turning unstructured, raw datasets into production-ready analytical assets using modern data stacks like Python, SQL, PySpark, and Cloud Platforms.
 
-I have developed projects including ERP-style platforms, student and expense management systems, live scoring applications, and AI-powered utilities, gaining experience across the full development lifecycle—from design and implementation to testing and optimization.
+---
 
-I am continuously expanding my technical depth, exploring emerging technologies, and contributing to projects that emphasize scalability, usability, and intelligent system design.
+### 🛠️ Data Engineering & Database Stack
 
-📫 Let’s connect:
-LinkedIn: https://www.linkedin.com/in/ronitfulari31
+* **Core Languages & Querying:** Python (PySpark, Pandas, NumPy), Advanced SQL (PostgreSQL, MySQL), Bash / Shell Scripting
+* **Data Processing & Pipelines:** ETL/ELT Pipeline Development, Apache Spark, PySpark, Data Transformation, Data Ingestion
+* **Databases & Warehousing:** Database Schema Design, Query Optimization, Star/Snowflake Schemas, PostgreSQL, MySQL, Snowflake, Databricks
+* **Cloud & Infrastructure:** AWS (S3, Lambda, Glue, Redshift, EC2), Containerization (Docker), Version Control (Git/GitHub)
+* **AI/ML & Advanced Data:** Data Preparation for ML, NLP Preprocessing, API Integration, Streamlit
+
+---
+
+### 🚀 Selected Projects & Architecture Highlights
+
+* **Automated Data Integration Pipelines** — Built end-to-end Python & SQL ETL workflows to ingest, clean, and structure high-volume raw data for analytics.
+* **Database Optimization & Schema Architecture** — Designed normalized SQL schema models and optimized complex queries (CTEs, Window Functions, Execution Plans) for high-throughput transactional and analytical applications.
+* **PySpark & Big Data Processing** — Implemented distributed data processing scripts to handle large-scale datasets efficiently using Apache Spark.
+
+---
+
+
+### 📬 Connect with Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/ronit-fulari-3085b4258](https://www.linkedin.com/in/ronit-fulari-3085b4258)
+* 🐙 **GitHub:** [github.com/Ronitfulari31](https://github.com/Ronitfulari31)
