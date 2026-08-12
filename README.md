@@ -1,30 +1,27 @@
 # 👋 Hi, I'm Ronit Fulari
 
-🎓 **Final-Year Computer Science Undergraduate** (Batch of 2026) | 
-🎯 **Focus Area:** Data Engineering, Advanced SQL Development, ETL/ELT Pipelines, and Big Data Ecosystems.
+🎓 **Final-Year Computer Science Student** (Graduating 2026)  
+🎯 **Aspiring Data Engineer** | Strong foundation in **Python** & **SQL**
 
-I specialize in building reliable, scalable data pipelines and designing optimized database architectures. My focus is turning unstructured, raw datasets into production-ready analytical assets using modern data stacks like Python, SQL, PySpark, and Cloud Platforms.
-
----
-
-### 🛠️ Data Engineering & Database Stack
-
-* **Core Languages & Querying:** Python (PySpark, Pandas, NumPy), Advanced SQL (PostgreSQL, MySQL), Bash / Shell Scripting
-* **Data Processing & Pipelines:** ETL/ELT Pipeline Development, Apache Spark, PySpark, Data Transformation, Data Ingestion
-* **Databases & Warehousing:** Database Schema Design, Query Optimization, Star/Snowflake Schemas, PostgreSQL, MySQL, Snowflake, Databricks
-* **Cloud & Infrastructure:** AWS (S3, Lambda, Glue, Redshift, EC2), Containerization (Docker), Version Control (Git/GitHub)
-* **AI/ML & Advanced Data:** Data Preparation for ML, NLP Preprocessing, API Integration, Streamlit
+I enjoy solving complex data challenges—turning raw, unstructured datasets into clean, structured architecture ready for analysis. My focus is on building scalable data warehouses, intelligent SQL tools, and data-processing packages using modern data tools.
 
 ---
 
-### 🚀 Selected Projects & Architecture Highlights
+### 🛠️ Core Technical Skills
 
-* **Automated Data Integration Pipelines** — Built end-to-end Python & SQL ETL workflows to ingest, clean, and structure high-volume raw data for analytics.
-* **Database Optimization & Schema Architecture** — Designed normalized SQL schema models and optimized complex queries (CTEs, Window Functions, Execution Plans) for high-throughput transactional and analytical applications.
-* **PySpark & Big Data Processing** — Implemented distributed data processing scripts to handle large-scale datasets efficiently using Apache Spark.
+* **Programming & Querying:** Python (Pandas, PySpark, NumPy), SQL (PostgreSQL, MySQL), Bash / Shell Scripting
+* **Data Engineering & Architecture:** Medallion Architecture (Bronze/Silver/Gold), Data Integration, Data Warehousing, Data Cleaning & Pipeline Design
+* **Databases & Tools:** PostgreSQL, MySQL, Snowflake, AWS (S3, Lambda, Redshift, Glue), Docker, Git/GitHub
 
 ---
 
+### 🚀 Selected Projects
+
+* **[SQL Data Warehouse Project](https://github.com/Ronitfulari31/sql-warehouse-project)** — Implemented an end-to-end Data Warehouse solution adhering to **Medallion Architecture** to integrate, clean, and model multi-source CRM & ERP data for analytical consumption.
+* **[AI-Powered SQL Assistant](https://github.com/Ronitfulari31/AI_POWERED_SQL-ASSISTANCE)** — Developed an AI-driven tool that translates natural language queries into accurate, executable SQL queries to simplify data access.
+* **[ContentIntelPy](https://github.com/Ronitfulari31/ContentIntelPy)** — Built a custom Python NLP processing package designed to extract and process text insights efficiently.
+
+---
 
 ### 📬 Connect with Me
 
