@@ -24,7 +24,7 @@ My journey started with writing complex SQL queries and Python scripts, which na
 
 * **[SQL Data Warehouse Project](https://github.com/Ronitfulari31/sql-warehouse-project)** — Designed an end-to-end Data Warehouse solution implementing Medallion Architecture to integrate, clean, and model multi-source CRM and ERP data.
 * **[AI-Powered SQL Assistant](https://github.com/Ronitfulari31/AI_POWERED_SQL-ASSISTANCE)** — Built an AI tool that translates natural language questions into precise, executable SQL queries to simplify data querying.
-* **[ContentIntelPy](https://github.com/Ronitfulari31/ContentIntelPy)** — Authored a Python package for NLP text preprocessing and insights extraction.
+* **[Zomato Data pipeline]((https://github.com/Ronitfulari31/Zomato_Data_Pipeline))** -A complete batch data pipeline that takes Zomato-style food delivery data from raw CSVs all the way to AI-powered analytics.
 
 ---
 
