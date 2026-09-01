@@ -31,4 +31,4 @@ My journey started with writing complex SQL queries and Python scripts, which na
 ### 📬 Connect with Me
 
 * 💼 **LinkedIn:** [linkedin.com/in/ronit-fulari-3085b4258](https://www.linkedin.com/in/ronit-fulari-3085b4258)
-* 🐙 **GitHub:** [github.com/Ronitfulari31](https://github.com/Ronitfulari31)
+* 🐙 **Mail:** [ronitfulari31@gmail.com](mailto:ronitfulari31@gmail.com)
